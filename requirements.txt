@@ -1,0 +1,4 @@
+mistralai>=0.4.2
+python-dotenv>=1.0.1
+tenacity>=8.2.3
+typing-extensions>=4.8.0
